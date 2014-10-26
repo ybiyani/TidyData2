@@ -1,5 +1,4 @@
 rm()
-setwd("C:/Users/Megha/Desktop/Yogesh/Courses/Getting and Cleaning Data/Project")
 library(data.table)
 library(plyr)
 library(reshape2) 

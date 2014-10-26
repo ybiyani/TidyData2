@@ -20,7 +20,7 @@ The output was to create a R script called run_analysis.R that does the followin
 
 ## Data
 
-The data for the project was collected from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+The data for the project was collected from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzipped in a folder called Project 
 
 
 ```{r}
