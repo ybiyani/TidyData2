@@ -2,17 +2,24 @@
 title: "Code Book"
 ---
 ## Input files 
+
 -activity_labels.txt : This file has the mapping between the activity id and the activity name
+
 -features.txt: This file list the name of the column ids for the measurements in X*.txt and y*.txt
 
 The train folder contains the data used to run train the machine learning algorithm
+
 -./train/X_train.txt : This file has the measurement data of 561 measurements listed in features.txt 
+
 -./train/subject_train.txt : The ID for the subjects corresponding the measurements 
+
 -./train/y_train.txt: The ID for the activities corresponding the measurements 
 
 The test folder contains the data used to run test on the machine learning algorithm and evaluate the accuracy
 -./test/X_test.txt : This file has the measurement data of 561 measurements listed in features.txt 
+
 -./test/subject_test.txt : The ID for the subjects corresponding the measurements 
+
 -./test/y_test.txt: The ID for the activities corresponding the measurements
 
 ## Details of the features/variables/measurment info 
